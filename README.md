@@ -2,27 +2,35 @@
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Incident Report Analysis project aimed to conduct a comprehensive examination of a recent security incident faced by the company. The primary goal was to deepen the understanding of incident management processes and enhance the organization's cybersecurity incident response capabilities.
 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+Throughout the Incident Report Analysis project, the following skills were developed:
+
+- Advanced comprehension of incident management principles.
+- Proficiency in implementing effective cybersecurity incident response strategies.
+- Ability to analyze security incidents and identify their impact on organizational assets.
+- Enhanced capability to mitigate security threats and prevent future occurrences.
+- Development of a structured approach to incident response and recovery.
 
 ### Tools Used
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+The project utilized various tools and methodologies to achieve its objectives:
+
+- Incident response frameworks for structured incident handling.
+- Analysis tools for dissecting the incident and identifying its root causes.
+- Security monitoring solutions for real-time threat detection and response.
+- Collaboration platforms for effective communication among response teams.
+- Documentation tools for documenting incident details and response actions.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+Incident senario:
+[Senario.docx](https://github.com/FrancisDunne/Incident_Report_Analysis/files/15051294/Senario.docx)
 
-Every screenshot should have some text explaining what the screenshot is about.
+Incident report:
+[Incident report analysis.pdf](https://github.com/FrancisDunne/Incident_Report_Analysis/files/15051297/Incident.report.analysis.pdf)
 
-Example below.
 
-*Ref 1: Network Diagram*
+
+Through the Incident Report Analysis project, valuable insights were gained into incident management processes, contributing to the enhancement of the organization's cybersecurity posture and resilience against future threats.
