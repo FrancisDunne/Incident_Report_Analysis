@@ -34,7 +34,3 @@ Incident report:
 
 
 [Incident report analysis.pdf](https://github.com/FrancisDunne/Incident_Report_Analysis/files/15051297/Incident.report.analysis.pdf)
-
-
-
-Through the Incident Report Analysis project, valuable insights were gained into incident management processes, contributing to the enhancement of the organization's cybersecurity posture and resilience against future threats.
