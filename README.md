@@ -26,9 +26,13 @@ The project utilized various tools and methodologies to achieve its objectives:
 
 ## Steps
 Incident senario:
+
+
 [Senario.docx](https://github.com/FrancisDunne/Incident_Report_Analysis/files/15051294/Senario.docx)
 
 Incident report:
+
+
 [Incident report analysis.pdf](https://github.com/FrancisDunne/Incident_Report_Analysis/files/15051297/Incident.report.analysis.pdf)
 
 
