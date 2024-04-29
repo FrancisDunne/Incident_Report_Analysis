@@ -2,16 +2,16 @@
 
 ## Objective
 
-The Incident Report Analysis project aimed to conduct a comprehensive examination of a recent security incident faced by the company. The primary goal was to deepen the understanding of incident management processes and enhance the organization's cybersecurity incident response capabilities.
+The Incident Report Analysis project gives a comprehensive examination of a recent security incident faced by the company. The goal was to deepen the understanding of incident management processes and enhance the organization's cybersecurity incident response capabilities.
 
 ### Skills Learned
 
 Throughout the Incident Report Analysis project, the following skills were developed:
 
-- Advanced comprehension of incident management principles.
+- Comprehension of incident management principles.
 - Proficiency in implementing effective cybersecurity incident response strategies.
 - Ability to analyze security incidents and identify their impact on organizational assets.
-- Enhanced capability to mitigate security threats and prevent future occurrences.
+- Capability to mitigate security threats and prevent future occurrences.
 - Development of a structured approach to incident response and recovery.
 
 ### Tools Used
@@ -19,10 +19,9 @@ Throughout the Incident Report Analysis project, the following skills were devel
 The project utilized various tools and methodologies to achieve its objectives:
 
 - Incident response frameworks for structured incident handling.
-- Analysis tools for dissecting the incident and identifying its root causes.
-- Security monitoring solutions for real-time threat detection and response.
+- Analysis mindset for dissecting the incident and identifying its root causes.
 - Collaboration platforms for effective communication among response teams.
-- Documentation tools for documenting incident details and response actions.
+- Documenting the incident details and response actions.
 
 ## Steps
 Incident senario:
